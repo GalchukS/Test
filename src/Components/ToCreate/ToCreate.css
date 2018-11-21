@@ -1,0 +1,17 @@
+.task{
+    background-color: gray;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 15px;
+    border-bottom: 3px solid black;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.input {
+    width: 80%;
+}
